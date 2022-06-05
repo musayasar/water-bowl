@@ -34,10 +34,10 @@ The Water Sensor module is part of the Grove system. It indicates whether the se
 
 
 
-## Open a file
+## LABVIEW FRONT PANEL
 
 ![front panel](https://user-images.githubusercontent.com/106698029/172064324-892d8abd-30e5-4402-875e-c3eae4773a6a.png)
-
+## LABVIEW BLOCK DIAGRAM
 ![block diagram](https://user-images.githubusercontent.com/106698029/172064417-8525657c-aab7-4b19-9d46-18a0a44bf0ba.png)
 
 ## Arduino Code of The System
