@@ -5,6 +5,7 @@
 
 The bond that humans establish with animals dates back to ancient times. Looking at the research, it is possible to see that animals began to be domesticated by humans about 12 thousand years ago. Today, many people continue to share their home and life with one or more pets. You have probably witnessed or experienced the deep bond and relationship that pet owners have established with their pets over time.
 Owning a pet comes with a huge responsibility. Because when you adopt a pet, you determine its quality of life and conditions, and you start making friends with a creature that needs you and loves you. As a result of the bond and communication you establish, your lovely friend also contributes a lot to your life.
+
 ![köpek](https://blog.dodomama.com/wp-content/uploads/2018/08/kedi-ve-kopek-mamalari.jpg)
 ## Dogs Need Water
 
