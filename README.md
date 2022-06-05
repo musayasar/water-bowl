@@ -26,7 +26,8 @@ Adult cats should drink at least 1 glass of water per day. This amount may incre
 Sometimes we may be separated from our home and our pets due to certain circumstances. I developed my water bowl sensor project for these situations. I prepared my circuit that alarms when the water level in our pets' containers falls below 25% and constantly displays the current water level.
 ## Arduino Connection
 
-![arduino](https://maker.robotistan.com/wp-content/uploads/2019/05/yagmur-sensoru_bb-1024x355.jpg)
+![arduino connection](https://user-images.githubusercontent.com/106698029/172064956-65193e47-9457-43bb-a877-d7a92aff9875.jpg)
+
 
 # Water Sensor
 
